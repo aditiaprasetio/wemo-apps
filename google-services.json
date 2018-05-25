@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "610165133361",
+    "firebase_url": "https://wemo-1522123877618.firebaseio.com",
+    "project_id": "wemo-1522123877618",
+    "storage_bucket": "wemo-1522123877618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610165133361:android:523ecc288464afa8",
+        "android_client_info": {
+          "package_name": "xyz.kampusgo.wemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610165133361-q2o0lu1gqujb70lldkv69e6mrm3i3fgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnH8JIGMgqE4dI_DwgChMlXsiu8iGaNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

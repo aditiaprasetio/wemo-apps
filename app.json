@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "WEMO - Weather Monitoring",
+    "description": "Siap untuk semua kemungkinan",
+    "slug": "wemo-apps",
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "platforms": ["android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#718792"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+  	"android": {
+      "package": "xyz.kampusgo.wemoapps",
+	    "googleServicesFile": "E:/PROJECT/react-new/wemo-apps/google-services.json",
+      "permissions" : [ "ACCESS_FINE_LOCATION" ],
+      "config" : {
+        "googleMaps" : {
+          "apiKey" : "AIzaSyDsnH8JIGMgqE4dI_DwgChMlXsiu8iGaNE"
+        }
+      }
+    }
+  }
+}
